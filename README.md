@@ -1,6 +1,6 @@
 # New project 
 
-This project was created from local system.
-Created by Shardha Khapra
+This project was created from local system 
+Created by Mustak Alam.
 
 
